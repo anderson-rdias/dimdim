@@ -9,9 +9,6 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<Contexto>
     (options => options.UseSqlServer("Server=tcp:sqlserver-rm88008.database.windows.net,1433;Initial Catalog=produto;Persist Security Info=False;User ID=admsql;Password=devops@fiap21;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"));
 
-builder.Services.AddDbContext<Contexto>
-    (options => options.UseSqlServer("Server=tcp:sqlserver-rm88008.database.windows.net,1433;Initial Catalog=contabancaria;Persist Security Info=False;User ID=admsql;Password=devops@fiap21;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"));
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
