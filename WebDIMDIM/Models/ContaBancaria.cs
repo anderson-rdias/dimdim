@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebDIMDIM.Models
 {
-    [Table("tb_conta")]
+    [Table("tb_contabancaria")]
     public class ContaBancaria
     {
         [Column("Id")]
