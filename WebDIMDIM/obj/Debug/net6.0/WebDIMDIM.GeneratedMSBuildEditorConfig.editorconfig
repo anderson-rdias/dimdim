@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Fiap2Ano\Materias\EAD\Visual Studio\DIMDIM\WebDIMDIM\WebDIMDIM
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Fiap2Ano/Materias/EAD/Visual Studio/DIMDIM/WebDIMDIM/WebDIMDIM/Views/ContaBancaria/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFCYW5jYXJpYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fiap2Ano/Materias/EAD/Visual Studio/DIMDIM/WebDIMDIM/WebDIMDIM/Views/ContaBancaria/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFCYW5jYXJpYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fiap2Ano/Materias/EAD/Visual Studio/DIMDIM/WebDIMDIM/WebDIMDIM/Views/ContaBancaria/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFCYW5jYXJpYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fiap2Ano/Materias/EAD/Visual Studio/DIMDIM/WebDIMDIM/WebDIMDIM/Views/ContaBancaria/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFCYW5jYXJpYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Fiap2Ano/Materias/EAD/Visual Studio/DIMDIM/WebDIMDIM/WebDIMDIM/Views/ContaBancaria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFCYW5jYXJpYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Fiap2Ano/Materias/EAD/Visual Studio/DIMDIM/WebDIMDIM/WebDIMDIM/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

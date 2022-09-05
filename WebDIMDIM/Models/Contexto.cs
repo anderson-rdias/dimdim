@@ -11,5 +11,7 @@ namespace WebDIMDIM.Models
 
         public DbSet<Produto> Produto { get; set; }
 
+        public DbSet<ContaBancaria> ContaBancaria { get; set; }
+
     }
 }
